@@ -1,0 +1,153 @@
+{
+  "cafeName": "Cafe Pro",
+  "logo": "/logo.jpg",
+  "categories": [
+    {
+      "id": "hot-drinks",
+      "title": "نوشیدنی‌های گرم",
+      "icon": "☕",
+      "items": [
+        {
+          "id": "1",
+          "name": "اسپرسو",
+          "description": "قهوه غلیظ ایتالیایی",
+          "price": 65000,
+          "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "2",
+          "name": "آمریکانو",
+          "description": "اسپرسو با آب داغ",
+          "price": 70000,
+          "image": "https://images.unsplash.com/photo-1494314671902-399b18174975?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "3",
+          "name": "کاپوچینو",
+          "description": "اسپرسو با فوم شیر",
+          "price": 85000,
+          "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "4",
+          "name": "لاته",
+          "description": "اسپرسو با شیر بخارداده",
+          "price": 90000,
+          "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "8",
+          "name": "موکا",
+          "description": "اسپرسو، شکلات و شیر",
+          "price": 95000,
+          "image": "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "9",
+          "name": "ماکیاتو",
+          "description": "اسپرسو با یه لایه فوم شیر",
+          "price": 80000,
+          "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "10",
+          "name": "چای ماسالا",
+          "description": "چای هندی با ادویه‌جات معطر",
+          "price": 60000,
+          "image": "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?q=80&w=400&auto=format&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": "cold-drinks",
+      "title": "نوشیدنی‌های سرد",
+      "icon": "🧊",
+      "items": [
+        {
+          "id": "5",
+          "name": "آیس لاته",
+          "description": "قهوه سرد با شیر",
+          "price": 95000,
+          "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "6",
+          "name": "موهیتو",
+          "description": "نعنا و لیمو با سودا",
+          "price": 80000,
+          "image": "https://images.unsplash.com/photo-1546171753-97d7676e4602?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "11",
+          "name": "آیس آمریکانو",
+          "description": "اسپرسو سرد با آب و یخ",
+          "price": 85000,
+          "image": "https://images.unsplash.com/photo-1592663527359-cf6642f54cff?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "12",
+          "name": "اسموتی توت‌فرنگی",
+          "description": "توت‌فرنگی تازه با یخ و شیر",
+          "price": 100000,
+          "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "13",
+          "name": "آیس‌تی هلو",
+          "description": "چای سرد با طعم هلو",
+          "price": 75000,
+          "image": "https://images.unsplash.com/photo-1499638673689-79a0b5115d87?q=80&w=400&auto=format&fit=crop"
+        }
+      ]
+    },
+           {
+      "id": "hookah",
+      "title": "قلیان",
+      "icon": "💨",
+      "items": [
+        {
+          "id": "14",
+          "name": "قلیان دوسیب",
+          "description": "طعم کلاسیک سیب دوقلو",
+          "price": 250000,
+          "image": "https://images.unsplash.com/photo-1630898025015-78612d134591?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "15",
+          "name": "قلیان انگور نعنا",
+          "description": "ترکیب خنک انگور و نعنا",
+          "price": 250000,
+          "image": "https://images.unsplash.com/photo-1632576883732-f131be0be48a?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "16",
+          "name": "قلیان هندوانه",
+          "description": "طعم تابستانی و خنک",
+          "price": 260000,
+          "image": "https://images.unsplash.com/photo-1622208489373-1fe93e2c6720?q=80&w=400&auto=format&fit=crop"
+        },
+        {
+          "id": "17",
+          "name": "قلیان لیمو نعنا",
+          "description": "ترکیب تازه و ترش‌وشیرین",
+          "price": 255000,
+          "image": "https://images.unsplash.com/photo-1754594537133-796eb54f206c?q=80&w=400&auto=format&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "title": "دسر و شیرینی",
+      "icon": "🍰",
+      "items": [
+        {
+          "id": "7",
+          "name": "چیزکیک",
+          "description": "چیزکیک نیویورکی",
+          "price": 120000,
+          "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?q=80&w=400&auto=format&fit=crop"
+        }
+      ]
+    }
+  ]
+}
